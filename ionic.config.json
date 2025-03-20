@@ -1,0 +1,7 @@
+{
+  "name": "WCAG Inputfield",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
