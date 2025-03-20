@@ -1,0 +1,21 @@
+.container {
+    align-content: center;
+    margin: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.signup-form-input{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #8c8c8c;
+  margin: 0;
+  margin-left:16px !important;
+  margin-right: 16px !important;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.signup-form-input-label{
+  color: orange;
+}
